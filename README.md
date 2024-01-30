@@ -1,3 +1,22 @@
+# ValorNot
+
+Inspiration: Valorant (the FPS game)
+
+## What's this all about
+
+Basically, the web app lets you view a set of agents (characters) and you get to match them randomly within the app.
+They fight automatically and gives you the result... Win / Loose
+
+The agents are selected through a card like structure and that becomes your roster for the match.
+
+## Ideas on what to implement
+
+Card like design - character images will be made from a non copyright source
+Card selection and animation - thinking of motion framer here
+Fight animation - same framer motion but this time around it involves fight randomize as there will maps and plays per game; e.g. Rush A or play for picks in B site.
+
+# Your normal setup README here -_-
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
